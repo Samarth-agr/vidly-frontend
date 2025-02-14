@@ -10,7 +10,7 @@ import NotFound from './Components/NotFound.jsx';
 import Login from './Components/Login.jsx';
 import Register from './Components/Register.jsx';
 import MovieForm from './Components/MovieForm.jsx';
-import Logout from './Components/logout.jsx';
+import Logout from './Components/Logout.jsx';
 import ProtectedRoute from './Components/ProtectedRoute.jsx';
 
 createRoot(document.getElementById('root')).render(
